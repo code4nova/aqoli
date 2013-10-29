@@ -1,0 +1,11 @@
+year,geog,fips,statecd,theme_id,indic_id,year_range_start,year_range_end,Rate_Cancer_Mortality
+1999,Alexandria,51510,51,4,411,1999,2003,179.8
+2000,Alexandria,51510,51,4,411,2000,2004,173.8
+2001,Alexandria,51510,51,4,411,2001,2005,161.6
+2002,Alexandria,51510,51,4,411,2002,2006,148.6
+2003,Alexandria,51510,51,4,411,2003,2007,137.6
+1999,Virginia,,51,4,411,1999,2003,202.5
+2000,Virginia,,51,4,411,2000,2004,196.4
+2001,Virginia,,51,4,411,2001,2005,192.5
+2002,Virginia,,51,4,411,2002,2006,189.3
+2003,Virginia,,51,4,411,2003,2007,186

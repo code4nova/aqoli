@@ -1,0 +1,11 @@
+year,geog,fips,statecd,theme_id,indic_id,num_hiv_diag,rate_hiv_diag
+2006,Alexandria,51510,51,4,405,49,35.8
+2007,Alexandria,51510,51,4,405,54,38.6
+2008,Alexandria,51510,51,4,405,59,34.7
+2009,Alexandria,51510,51,4,405,46,30.7
+2010,Alexandria,51510,51,4,405,43,30.7
+2006,Virginia,,51,4,405,1016,13.3
+2007,Virginia,,51,4,405,1036,13.4
+2008,Virginia,,51,4,405,1081,13.9
+2009,Virginia,,51,4,405,957,12.1
+2010,Virginia,,51,4,405,994,12.4

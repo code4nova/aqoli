@@ -1,0 +1,4 @@
+year,geog,fips,statecd,theme_id,indic_id,pct_retail_vacancy_low145,pct_retail_vacancy_mid156,pct_retail_vacancy_up39,pct_retail_vacancy_total
+2009,Alexandria,51510,51,11,1107,0.042,0.056,0.07,0.049
+2010,Alexandria,51510,51,11,1107,0.039,0.061,0.05,0.048
+2011,Alexandria,51510,51,11,1107,0.058,0.047,0.038,0.052

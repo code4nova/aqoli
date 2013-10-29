@@ -1,0 +1,4 @@
+year,geog,fips,statecd,theme_id,indic_id,pct_nclb_disad_grad,pct_nclb_lep_grad,pct_nclb_hisp_grad,pct_nclb_white_grad,pct_nclb_black_grad,pct_nclb_swd_grad,pct_nclb_all_grad,pct_fed_disad_grad,pct_fed_lep_grad,pct_fed_hisp_grad,vpct_fed_white_grad,pct_fed_black_grad,pct_fed_swd_grad,pct_fed_all_grad
+2008,Alexandria,51510,51,11,1104,70,71,58,87,76,76,76,,,,,,,
+2009,Alexandria,51510,51,11,1104,77,68,65,87,79,85,78,,,,,,,
+2010,Alexandria,51510,51,11,1104,76,68,69,86,79,81,79,59,57,53,81,67,35,67

@@ -1,0 +1,5 @@
+year,geog,fips,statecd,theme_id,indic_id,pct_suicidal_grade7,pct_suicidal_grade8,pct_suicidal_grade9,pct_suicidal_grade10,pct_suicidal_grade11,pct_suicidal_grade12,pct_suicidal_grades7_12,avg_days_mental_unhealthy
+2007,Alexandria,51510,51,7,703,0.17,0.16,0.14,0.15,0.16,0.15,0.16,
+2008,Alexandria,51510,51,7,704,,,,,,,,1.55
+2009,Alexandria,51510,51,7,704,,,,,,,,2.28
+2010,Alexandria,51510,51,7,704,0.17,0.19,0.19,0.17,0.14,0.14,0.17,2.14

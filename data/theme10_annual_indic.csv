@@ -1,0 +1,13 @@
+year,geog,fips,statecd,theme_id,indic_id,num_ozone_days,num_so2_days,num_airqualityaction_days,num_health_complaints,pct_solidwaste_recycled
+2000,Alexandria,51510,51,10,1001,5,6,11,,
+2001,Alexandria,51510,51,10,1001,13,5,18,,
+2002,Alexandria,51510,51,10,1001,23,6,29,,
+2003,Alexandria,51510,51,10,1001,6,7,13,,
+2004,Alexandria,51510,51,10,1001,6,3,9,,
+2005,Alexandria,51510,51,10,1001,10,4,14,,
+2006,Alexandria,51510,51,10,1001,14,1,15,,
+2007,Alexandria,51510,51,10,1002,11,0,11,242,
+2008,Alexandria,51510,51,10,1003,3,0,3,304,0.269
+2009,Alexandria,51510,51,10,1002,0,0,0,296,
+2010,Alexandria,51510,51,10,1003,10,0,10,242,0.414
+2011,Alexandria,51510,51,10,1002,,,,245,

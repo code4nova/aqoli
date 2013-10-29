@@ -1,0 +1,3 @@
+year,geog,fips,statecd,theme_id,indic_id,pct_youth_never_smoked_gr7,pct_youth_never_smoked_gr8,pct_youth_never_smoked_gr9,pct_youth_never_smoked_gr10,pct_youth_never_smoked_gr11,pct_youth_never_smoked_gr12,pct_youth_never_smoked_gr7_12
+2007,Alexandria,51510,51,8,802,0.82,0.74,0.73,0.64,0.6,0.49,0.67
+2010,Alexandria,51510,51,8,802,0.86,0.76,0.76,0.64,0.63,0.55,0.73

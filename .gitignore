@@ -1,0 +1,4 @@
+ckan_api.py
+*.pyc
+*.json
+*.pem

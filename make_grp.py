@@ -37,6 +37,7 @@ def make_grp(name,title):
     return create_group
     pprint.pprint(create_group)
 
+make_grp('diversity','Diversity')
 #make_grp('diverse_community','Diverse Community')
 #make_grp('access_to_health_care','Access to Health Care')
 #make_grp('built_environment','Built Environment')
@@ -48,4 +49,7 @@ def make_grp(name,title):
 #make_grp('sense_of_community','Sense of Community')
 #make_grp('substance_abuse_prevention','Substance Abuse Prevention')
 #make_grp('meeting_basic_needs','Meeting Basic Needs')
+<<<<<<< HEAD
 make_grp('bananas', 'Bananas Rule!')
+=======
+>>>>>>> c6382b6e6f002cf577a0f7cf581eaf6e93a8e50c

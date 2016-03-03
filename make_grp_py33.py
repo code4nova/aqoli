@@ -1,6 +1,7 @@
 #!/usr/bin/env python
-import urllib2
-import urllib
+#import urllib2
+#import urllib
+import urllib.request, urllib.error, urllib.parse
 import json
 import pprint
 import ckan_api
@@ -13,10 +14,10 @@ def make_grp(name,title):
     }
 
     # Use json module to dump the dictionary to a string for posting.
-    data_string = urllib.quote(json.dumps(group_dict))
+    data_string = urllib.parse.quote(json.dumps(group_dict))
 
     # Use package_create function to create new dataset.
-    request = urllib2.Request(
+    request = urllib.request.Request(
         'http://ckan.codefornova.org/api/action/group_create'
     )
 
@@ -25,7 +26,7 @@ def make_grp(name,title):
     request.add_header('authorization', ckan_api.myapi)
 
     # Make HTTP request.
-    response = urllib2.urlopen(request, data_string)
+    response = urllib.request.urlopen(request, data_string)
     assert response.code == 200
 
     # Use the json module to load CKAN's response into a dictionary.
@@ -48,4 +49,4 @@ def make_grp(name,title):
 #make_grp('sense_of_community','Sense of Community')
 #make_grp('substance_abuse_prevention','Substance Abuse Prevention')
 #make_grp('meeting_basic_needs','Meeting Basic Needs')
-make_grp('bananas', 'Bananas Rule!')
+make_grp('bananas', 'Bananas Rule')
